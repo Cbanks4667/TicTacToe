@@ -1,0 +1,21 @@
+G:\PROG2370-OOP\Assignments\Assignment2\CBanksAssignment2\CBanksAssignment2\bin\Debug\CBanksAssignment2.exe.config
+G:\PROG2370-OOP\Assignments\Assignment2\CBanksAssignment2\CBanksAssignment2\bin\Debug\CBanksAssignment2.exe
+G:\PROG2370-OOP\Assignments\Assignment2\CBanksAssignment2\CBanksAssignment2\bin\Debug\CBanksAssignment2.pdb
+G:\PROG2370-OOP\Assignments\Assignment2\CBanksAssignment2\CBanksAssignment2\obj\Debug\CBanksAssignment2.csprojResolveAssemblyReference.cache
+G:\PROG2370-OOP\Assignments\Assignment2\CBanksAssignment2\CBanksAssignment2\obj\Debug\CBanksAssignment2.CbanksAssignment2.resources
+G:\PROG2370-OOP\Assignments\Assignment2\CBanksAssignment2\CBanksAssignment2\obj\Debug\CBanksAssignment2.Properties.Resources.resources
+G:\PROG2370-OOP\Assignments\Assignment2\CBanksAssignment2\CBanksAssignment2\obj\Debug\CBanksAssignment2.csproj.GenerateResource.Cache
+G:\PROG2370-OOP\Assignments\Assignment2\CBanksAssignment2\CBanksAssignment2\obj\Debug\CBanksAssignment2.exe
+G:\PROG2370-OOP\Assignments\Assignment2\CBanksAssignment2\CBanksAssignment2\obj\Debug\CBanksAssignment2.pdb
+C:\Users\guywi\Documents\Semester 3\PROG2370-OOP\Assignments\Assignment2\CBanksAssignment2\CBanksAssignment2\bin\Debug\CBanksAssignment2.exe.config
+C:\Users\guywi\Documents\Semester 3\PROG2370-OOP\Assignments\Assignment2\CBanksAssignment2\CBanksAssignment2\obj\Debug\CBanksAssignment2.exe
+C:\Users\guywi\Documents\Semester 3\PROG2370-OOP\Assignments\Assignment2\CBanksAssignment2\CBanksAssignment2\obj\Debug\CBanksAssignment2.pdb
+C:\Users\guywi\Documents\Semester 3\PROG2370-OOP\Assignments\Assignment2\CBanksAssignment2\CBanksAssignment2\bin\Debug\CBanksAssignment2.exe
+C:\Users\guywi\Documents\Semester 3\PROG2370-OOP\Assignments\Assignment2\CBanksAssignment2\CBanksAssignment2\bin\Debug\CBanksAssignment2.pdb
+C:\Users\guywi\Documents\Semester 3\PROG2370-OOP\Assignments\Assignment2\CBanksAssignment2\CBanksAssignment2\obj\Debug\CBanksAssignment2.csprojResolveAssemblyReference.cache
+C:\Users\guywi\Documents\Semester 3\PROG2370-OOP\Assignments\Assignment2\CBanksAssignment2\CBanksAssignment2\obj\Debug\CBanksAssignment2.CbanksAssignment2.resources
+C:\Users\guywi\Documents\Semester 3\PROG2370-OOP\Assignments\Assignment2\CBanksAssignment2\CBanksAssignment2\obj\Debug\CBanksAssignment2.Properties.Resources.resources
+C:\Users\guywi\Documents\Semester 3\PROG2370-OOP\Assignments\Assignment2\CBanksAssignment2\CBanksAssignment2\obj\Debug\CBanksAssignment2.csproj.GenerateResource.Cache
+C:\Users\guywi\Desktop\Semester 3\PROG2370-OOP\Assignments\Assignment2\CBanksAssignment2\CBanksAssignment2\bin\Debug\CBanksAssignment2.exe.config
+C:\Users\guywi\Desktop\Semester 3\PROG2370-OOP\Assignments\Assignment2\CBanksAssignment2\CBanksAssignment2\obj\Debug\CBanksAssignment2.exe
+C:\Users\guywi\Desktop\Semester 3\PROG2370-OOP\Assignments\Assignment2\CBanksAssignment2\CBanksAssignment2\obj\Debug\CBanksAssignment2.pdb
